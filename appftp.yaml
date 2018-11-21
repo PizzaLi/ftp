@@ -1,0 +1,4 @@
+ftpserver:
+  host: 'localhost'
+  port: 10000
+  user_file: '/Users/pizza/python/projects/app_junior/ftp/ftp/model/user_info.txt'

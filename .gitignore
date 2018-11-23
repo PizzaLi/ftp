@@ -1,0 +1,4 @@
+build/
+drf_server.egg-info/
+dist/
+**/__pycache__/

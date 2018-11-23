@@ -1,0 +1,8 @@
+setup.py
+ftp.egg-info/PKG-INFO
+ftp.egg-info/SOURCES.txt
+ftp.egg-info/dependency_links.txt
+ftp.egg-info/requires.txt
+ftp.egg-info/top_level.txt
+scripts/ftp-client
+scripts/ftp-server

@@ -2,8 +2,8 @@
 
 """
 Usage:
-  ftp-cli.py <host> <port>
-  ftp-cli.py -h | --help
+  ftp-client <host> <port>
+  ftp-client -h | --help
 
 Options:
   -h --help     Show this screen.
